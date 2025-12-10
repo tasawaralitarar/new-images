@@ -15,7 +15,7 @@ function showScreen(title, description, imageFile) {
     showScreen(
       "画面1",
       "ここは画面1です。",
-      "image1.png"
+      "secren1.png"
     );
   });
 }
@@ -25,7 +25,7 @@ document.getElementById("btn1").addEventListener("click", () => {
   showScreen(
     "画面1",
     "ここは画面1です。",
-    "image1.png"
+    "secren1.png"
   );
 });
 
@@ -34,7 +34,7 @@ document.getElementById("btn2").addEventListener("click", () => {
   showScreen(
     "画面2",
     "ここは画面2です。",
-    "images2.png"
+    "secren2.png"
   );
 });
 
@@ -43,7 +43,7 @@ document.getElementById("btn3").addEventListener("click", () => {
   showScreen(
     "画面3",
     "ここは画面3です。",
-    "images3.png"
+    "secren3.png"
   );
 });
 
