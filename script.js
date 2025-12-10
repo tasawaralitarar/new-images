@@ -15,7 +15,7 @@ function showScreen(title, description, imageFile) {
     showScreen(
       "画面1",
       "ここは画面1です。",
-      "images1.png"
+      "image1.png"
     );
   });
 }
@@ -25,7 +25,7 @@ document.getElementById("btn1").addEventListener("click", () => {
   showScreen(
     "画面1",
     "ここは画面1です。",
-    "images1.png"
+    "image1.png"
   );
 });
 
